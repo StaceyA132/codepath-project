@@ -35,6 +35,8 @@ I would like to build a **Music Mood Matcher** app that recommends music based o
 
 I didnt have any challenges while completeing this project
 
+Gif link : https://imgur.com/a/app-demo-8IwXpE4
+
 ## License
 
     Copyright [2025] [Stacey Annan]
